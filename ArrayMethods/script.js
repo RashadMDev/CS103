@@ -85,4 +85,3 @@ const arr3 = [7, 8, 9];
 
 const combined = arr1.concat(arr2, arr3, fruits)
 console.log(combined);
-
